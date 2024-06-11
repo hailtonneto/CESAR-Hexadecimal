@@ -1,5 +1,3 @@
-# CESAR-Hexadecimal
-
 # 📒 Documentação do Projeto
 
 <p align="justify">
