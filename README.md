@@ -16,7 +16,9 @@
 </div>
 
 ## 🌐 Autores
+
 <br>
+
 - Carlos Cavalcante Silva de Oliveira
 - Hailton de Melo Lima Neto
 - Lilian Beckman Soares Moura
@@ -26,7 +28,9 @@
 - Victor Barbosa dos Santos
 
 ## 🔗 Preview do Projeto
+
 <br>
+
 <p width="100%" align="center">
   <a href="https://cesar-at-hexadecimal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Preview-FF5722?style=for-the-badge&logo=todoist&logoColor=white" width="30%"></a>
 </p>
