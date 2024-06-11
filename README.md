@@ -1,7 +1,7 @@
 # 📒 Documentação do Projeto
 
 <p align="justify">
-  Projeto proposto pela professora Rafaella Matos, da matéria de Introdução à Computação da CESAR School, nesta atividade deveríamos desenvolver um site informativo que explicasse acerca do sistema Hexadecimal, explicando tópicos como o que é o sistema, como utilizar a base hexadecimal, a representação numérica do sistema hexa, como ele é utilizado na computação, um guia prático de como é realizada a conversão do decimal (base 10) para o hexadecimal (base 16) e um formulário de feedback.
+Projeto proposto pela professora Rafaella Matos, da matéria de Introdução à Computação da CESAR School, nesta atividade deveríamos desenvolver um site informativo que explicasse acerca do sistema Hexadecimal, explicando tópicos como o que é o sistema, como utilizar a base hexadecimal, a representação numérica do sistema hexa, como ele é utilizado na computação, um guia prático de como é realizada a conversão do decimal (base 10) para o hexadecimal (base 16) e um formulário de feedback.
 </p>
 <br>
 
